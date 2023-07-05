@@ -1,0 +1,22 @@
+[
+  {
+    "type": "collision",
+    "amount": 5000
+  },
+  {
+    "type": "theft",
+    "amount": 2000
+  },
+  {
+    "type": "liability",
+    "amount": 10000
+  },
+  {
+    "type": "collision",
+    "amount": 7000
+  },
+  {
+    "type": "liability",
+    "amount": 15000
+  }
+]
